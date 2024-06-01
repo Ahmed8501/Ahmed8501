@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hello, I'm Ahmed Bahaa👋
 
-<!--
-**Ahmed8501/Ahmed8501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm passionate about **Machine Learning** and **Data Science**. 
+Currently, I'm pursuing my **Master's in Data Science** from the German University in Cairo (GUC).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 How to Reach Me
+
+- LinkedIn: [Ahmed Bahaa](linkedin.com/in/ahmed-bahaa-873002222)
+- Email: Ahmedbahaa987@gmail.com
+
+## 🚀 My Skills
+
+- **Programming Languages:** Python, SQL, C#
+- **Machine Learning:** Scikit-learn, TensorFlow, Keras, PyTorch
+- **Data Visualization:** Matplotlib, Seaborn, 
+- **Big Data Technologies:** Hadoop, Spark
+- **Other Tools:** Git, Jupyter Notebooks
+
+## 📚 Projects
+
+Here are some of the projects I've been working on:
+
+- [Credit Score Analysis]((https://github.com/Ahmed8501/Code-Alpha-Internship/blob/main/Credit_Scoring_Model_.ipynb))
+- [ Customer Churn Prediction](https://github.com/Ahmed8501/Data-Science-Projects/blob/main/Classification_Customer_churn.ipynb)
+- [Clustering Spotify Genres](https://github.com/Ahmed8501/Data-Science-Projects/blob/main/Clustering_Spotify_Genres.ipynb)
+- [Linear Regression for Estimating Used Cars Selling Price](https://github.com/Ahmed8501/Data-Science-Projects/blob/main/Linear%20Regression.ipynb)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janedoe&layout=compact)
