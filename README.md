@@ -9,8 +9,8 @@ Currently, I'm pursuing my **Master's in Data Science** from the German Universi
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Ahmed Bahaa](linkedin.com/in/ahmed-bahaa-873002222)
-- Email: Ahmedbahaa987@gmail.com
+- LinkedIn: [Ahmed Bahaa](https://www.linkedin.com/in/ahmed-bahaa-873002222/)
+- Email: ahmedbahaa987@gmail.com
 
 ## 🚀 My Skills
 
