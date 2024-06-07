@@ -4,7 +4,7 @@
 
 I'm passionate about **Machine Learning** and **Data Science**. 
 
-Currently, I'm pursuing my **Master's in Data Science** from the German University in Cairo (GUC).
+Currently, I'm pursuing my **Masters degree in Data Science** from the German University in Cairo (GUC).
 
 
 ## 📫 How to Reach Me
