@@ -24,6 +24,7 @@ Currently, I'm pursuing my **Masters degree in Data Science** from the German Un
 
 Here are some of the projects I've been working on:
 
+- [POS Sequence Tagging].(https://github.com/Ahmed8501/NLP_Project).
 - [Credit Score Analysis](https://github.com/Ahmed8501/Code-Alpha-Internship/blob/main/Credit_Scoring_Model_.ipynb)
 - [ Customer Churn Prediction](https://github.com/Ahmed8501/Data-Science-Projects/blob/main/Classification_Customer_churn.ipynb)
 - [Clustering Spotify Genres](https://github.com/Ahmed8501/Data-Science-Projects/blob/main/Clustering_Spotify_Genres.ipynb)
