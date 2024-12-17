@@ -4,19 +4,19 @@
 
 I'm passionate about **Machine Learning** and **Data Science**. 
 
-Currently, I'm pursuing my **Masters degree in Data Science** from the German University in Cairo (GUC).
+Currently, I'm pursuing my **Masters degree in Business Informatics** from the German University in Cairo (GUC).
 
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Ahmed Bahaa](https://www.linkedin.com/in/ahmed-bahaa-873002222/)
+- LinkedIn: [Ahmed Bahaa](www.linkedin.com/in/ahmed-bahaa-profile)
 - Email: ahmedbahaa987@gmail.com
 
 ## 🚀 My Skills
 
-- **Programming Languages:** Python, SQL, C#
-- **Machine Learning:** Scikit-learn, TensorFlow, Keras, PyTorch
-- **Data Visualization:** Matplotlib, Seaborn, 
+- **Programming Languages:** Python, SQL
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
+- **Data Visualization:** Matplotlib, PowerBI
 - **Big Data Technologies:** Hadoop, Spark
 - **Other Tools:** Git, Jupyter Notebooks
 
