@@ -27,7 +27,7 @@ Here are some of the projects I've been working on:
 - [POS Sequence Tagging](https://github.com/Ahmed8501/NLP_Project)
 - [Credit Score Analysis](https://github.com/Ahmed8501/Credit-Scoring-Model)
 - [ Customer Churn Prediction](https://github.com/Ahmed8501/Customer-Churn_Prediction)
-- [Interactive Car Sales](https://github.com/Ahmed8501/Interactive-Car-Sales-Dashboard)
+- [Interactive Car Sales Dashboard](https://github.com/Ahmed8501/Interactive-Car-Sales-Dashboard)
 - [Clustering Spotify Genres](https://github.com/Ahmed8501/Data-Science-Projects/blob/main/Clustering_Spotify_Genres.ipynb)
 - [Linear Regression for Estimating Used Cars Selling Price](https://github.com/Ahmed8501/Data-Science-Projects/blob/main/Linear%20Regression.ipynb)
 
